@@ -1,0 +1,15 @@
+{
+  "short_name": "Servixo",
+  "name": "Servixo — Home Services",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF5EC",
+  "theme_color": "#E2571A",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cpolygon points='50,4 93,27 93,73 50,96 7,73 7,27' fill='%23E2571A'/%3E%3C/svg%3E",
+      "sizes": "100x100",
+      "type": "image/svg+xml"
+    }
+  ]
+}
